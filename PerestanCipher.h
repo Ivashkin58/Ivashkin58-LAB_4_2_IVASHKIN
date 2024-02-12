@@ -1,6 +1,6 @@
 /**
 * @file PerestanCipher.h
-* @author Ревин Д.К.
+* @author Ивашкин А.Г.
 * @version 1.0
 * @brief Описание класса Cipher
 * @date 22.01.2023
